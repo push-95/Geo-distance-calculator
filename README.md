@@ -5,15 +5,12 @@
 
 ## Structure
 ```
-imbellus
+Geo-distance-calculator
 │   README.md
 │   requirements.txt
 │   app.py
 │   dist_calc.py
 │   test_dist_calc.py
-│   PythonBackendAssignment.pdf
-└───static
-│   │   map.jpg 
 └───templates
     │   calc.html
 ```
