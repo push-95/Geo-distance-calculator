@@ -1,4 +1,4 @@
-# Python Backend Assignment
+# Geodesic Distance Calculator
 
 ## Description
 **Distance Calculator** is a web application built with Flask and python to calculate the geodesic distance between two points on the surface of the earth (there’s Mars in Texas) - which is, in other terms, specified by addresses (or mathematically, geographic coordinates). The app provides user with test boxes for two address entries, the distance between which you wish to calculate, and one for the API key (to make sure you're not a robot, JK). 
